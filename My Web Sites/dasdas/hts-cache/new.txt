@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:06:22	1165/1165	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2010%20Feb%202021%2011:36:51%20GMT	https://rblxtexture.com/robots.txt		(from )
+16:06:22	500212/500212	---MCZ	200	added ('OK')	text/html	date:Wed,%2010%20Mar%202021%2021:06:22%20GMT	https://rblxtexture.com/	C:/My%20Web%20Sites/dasdas/rblxtexture.com/index.html	(from )
+16:06:24	1947628/1947628	---M--	200	added ('OK')	image/gif	date:Wed,%2006%20Jan%202021%2015:54:15%20GMT	https://images-ext-1.discordapp.net/external/6Kccpgp-hWp7cT3mFbo5fZJnxMGd4Q94rXZ-t8qPzC8/https/roblox.community/profile/archmage.gif	C:/My%20Web%20Sites/dasdas/images-ext-1.discordapp.net/external/6Kccpgp-hWp7cT3mFbo5fZJnxMGd4Q94rXZ-t8qPzC8/https/roblox.community/profile/archmage.gif	(from https://rblxtexture.com/)
+16:06:24	2457/2457	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2010%20Feb%202021%2011:36:51%20GMT	https://rblxtexture.com/script.js	C:/My%20Web%20Sites/dasdas/rblxtexture.com/script.js	(from https://rblxtexture.com/)
